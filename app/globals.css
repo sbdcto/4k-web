@@ -1,0 +1,10 @@
+@tailwind base; /* base-level styles such as styling headings, body, links, etc. */
+@tailwind components; /* reusable components like buttons, cards, or custom UI pieces */
+@tailwind utilities; /* custom utility classes, like adding text shadows, gradients, or special border radius classes */
+
+@layer base {
+}
+@layer components {
+}
+@layer utilities {
+}
